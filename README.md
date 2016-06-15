@@ -12,7 +12,7 @@
 ## Step 0
 
 予め TUTVPN に接続し，
-`wlinux0.edu.tut.ac.jp` へ SSH でログインしておいてください．
+`wlinux.edu.tut.ac.jp` へ SSH でログインしておいてください．
 
 ## Step 1
 
